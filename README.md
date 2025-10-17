@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @vaihundhs
 - 👀 I’m interested in web development and graphic designing
-- 🌱 I’m currently learning wordpress
+- 🌱 I’m currently learning spring Boot
 - 💞️ I’m looking to collaborate with clients who are interested to make website for their needs.
 - 📫 You can contact throught mail : vaihundhsrinivasan@gmail.com
 
